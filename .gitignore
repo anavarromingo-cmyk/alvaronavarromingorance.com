@@ -1,0 +1,31 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+._*
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (por si algún día se añade un build)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.npm
+
+# Logs y caché
+*.log
+.cache/
+
+# Preview local (no entra en producción)
+_preview.html
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Script de deploy local (no debe subirse)
+deploy.sh
