@@ -29,3 +29,4 @@ _preview.html
 
 # Script de deploy local (no debe subirse)
 deploy.sh
+.claude/
